@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "upgradable",
 	"version": "${version}",
-	"name": "Upgradable Materials",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Upgradable Tools",
+	"description": "Make your tools upgradable.",
 	"authors": [
 		"MerasGD"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/merasugd/upgradable",
+		"sources": "https://github.com/merasugd/upgradable"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/upgradable/icon.png",

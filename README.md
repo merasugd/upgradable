@@ -1,5 +1,5 @@
 ## Upgradable Materials
 
-Make your materials upgradable.
+Make your tools upgradable.
 
 Recommended with REI (Roughly Enough Items)
