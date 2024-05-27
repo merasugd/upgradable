@@ -16,14 +16,18 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.merasgd.UpgradableMaterials"
+			"net.merasgd.upgradable.Main"
+		],
+		"client": [
+			"net.merasgd.client.Main"
 		],
 		"fabric-datagen": [
-			"net.merasgd.UpgradableMaterialsDataGenerator"
+			"net.merasgd.datagen.Main"
 		]
 	},
 	"mixins": [
-		"upgradable.mixins.json"
+		"upgradable.mixins.json",
+		"upgradable.mixins.client.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.11",

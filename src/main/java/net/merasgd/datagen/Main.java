@@ -1,9 +1,9 @@
-package net.merasgd;
+package net.merasgd.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 
-public class UpgradableMaterialsDataGenerator implements DataGeneratorEntrypoint {
+public class Main implements DataGeneratorEntrypoint {
 	@Override
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
 

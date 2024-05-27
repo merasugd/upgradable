@@ -3,7 +3,7 @@
 	"package": "net.merasgd.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"Mod"
+		"Client"
 	],
 	"injectors": {
 		"defaultRequire": 1

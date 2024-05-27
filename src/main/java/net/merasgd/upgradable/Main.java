@@ -1,11 +1,11 @@
-package net.merasgd;
+package net.merasgd.upgradable;
 
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class UpgradableMaterials implements ModInitializer {
+public class Main implements ModInitializer {
 	public static final String MOD_ID = "";
     public static final Logger LOGGER = LoggerFactory.getLogger("upgradable");
 
